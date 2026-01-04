@@ -1,1 +1,1 @@
-Advent of Code 2025, showcasing capabilities from [nbpipes](https://github.com/smacke/nbpipes).
+Advent of Code 2025, showcasing capabilities from [pipescript](https://github.com/smacke/pipescript).
